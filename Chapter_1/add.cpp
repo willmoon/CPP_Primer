@@ -1,3 +1,7 @@
+/*
+*计算两个整数的和，并输出
+*/
+
 #include <iostream>
 
 int main(int argc, char const *argv[])
